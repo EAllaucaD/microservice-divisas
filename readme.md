@@ -68,7 +68,7 @@ In this case, the currency that has the value is USD and you want to transform i
 
 
 ## Cloud Provider in RAILWAY
-(You can only access when the service is up by the team.)
+You can only access when the service is up by the team.
 
 https://foreignexchange-production.up.railway.app/
 
