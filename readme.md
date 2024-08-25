@@ -1,9 +1,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project : FOREIGN_EXCHANGE
+## About The Project : Microservice-Divisas
 
-This Python project uses Docker and a currency conversion API, providing an automated and scalable solution for performing currency conversions. Docker ensures the portability and consistency of the development environment, while the API allows access to up-to-date exchange rates. This tool is ideal for financial, commercial applications or any environment that requires accurate and timely conversions between different currencies.
+This Python Microservice project uses Docker and a currency conversion API, providing an automated and scalable solution for performing currency conversions. Docker ensures the portability and consistency of the development environment, while the API allows access to up-to-date exchange rates. This tool is ideal for financial, commercial applications or any environment that requires accurate and timely conversions between different currencies.
 Why this program fills a need
 
 This application complies with the basic principle of microservice.
@@ -23,7 +23,6 @@ EDWIN ALLAUCA
 Python
 
 Flask
-
 
 
 ## Getting Started and Prerequisites
