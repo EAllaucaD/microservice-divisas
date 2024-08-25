@@ -15,13 +15,9 @@ This application complies with the basic principle of microservice.
 This project offers a robust and easy to implement solution for any application requiring automated currency conversion functionalities.
 
 
-
-
-
-## GROUP :
+## NAME :
 EDWIN ALLAUCA
 
-SEBASTIÁN CARRERA
 
 ### Built With
 Python
@@ -39,7 +35,6 @@ Prerequisites and Installation
 
 2. This is an example of how to list things you need execute.
     pip install -r requirements.txt
-
 
 
 
@@ -74,9 +69,6 @@ Once the application has been executed, you can enter the value of money to be c
 In this case, the currency that has the value is USD and you want to transform it you must enter the EUR.
 
 ![Captura de pantalla 2024-07-08 121451](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/24d04343-cd38-4f7c-951e-63751b1f401a)
-
-
-![Captura de pantalla 2024-07-08 121457](https://github.com/EAllaucaD/foreign_exchange/assets/135485982/1b8aa2bd-e924-426c-a906-4894f1cd5763)
 
 
 ## Cloud Provider in RAILWAY
