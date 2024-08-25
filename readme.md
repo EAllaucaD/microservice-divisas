@@ -1,5 +1,3 @@
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project : Microservice-Divisas
 
@@ -15,15 +13,14 @@ This application complies with the basic principle of microservice.
 This project offers a robust and easy to implement solution for any application requiring automated currency conversion functionalities.
 
 
-## NAME :
-EDWIN ALLAUCA
+## Name :
+Edwin Allauca
 
 
 ### Built With
 Python
-
 Flask
-
+Docker
 
 ## Getting Started and Prerequisites
 Prerequisites and Installation
